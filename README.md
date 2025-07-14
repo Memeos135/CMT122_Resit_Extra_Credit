@@ -42,10 +42,10 @@ pip install pandas numpy scikit-learn scipy
 
 ## 📊 Output
 The final classification model outputs:
-- **Accuracy**: `0.848`
-- **Macro Precision**: `0.856`
-- **Macro Recall**: `0.852`
-- **Macro F1**: `0.853`
+- **Accuracy**: `0.814`
+- **Macro Precision**: `0.827`
+- **Macro Recall**: `0.820`
+- **Macro F1**: `0.819`
 
 Performance meets the coursework requirement (> 65% accuracy).
 
