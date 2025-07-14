@@ -1,10 +1,10 @@
 
-# 📄 README – CMT122 Coursework 1 (Part 2)
+# 📄 README – CMT122 Resit Coursework 1 (Part 2)
 
 ## 👨‍💻 Author:
 Mohammed Bokhari  
 Module: CMT122 – Machine Learning for NLP  
-Assessment: Coursework 1 – Part 2 (Text Classification Project)
+Assessment: Resit Coursework 1 – Part 2 (Text Classification Project)
 
 ---
 
